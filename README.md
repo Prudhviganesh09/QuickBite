@@ -78,4 +78,4 @@ Stripe
 JWT-Authentication
 Multer
 Deployment
-The application is deployed on Render.
+The application is deployed on Netlify.
